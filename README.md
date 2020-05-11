@@ -9,7 +9,7 @@ Hello, I’m a Korean student of CSE.
 It’s very easy!
 Just type “Thank you professor!(A thank-you note what you want) <3<3<3<3<3<3<3<3” In the chat window.
 
-Additionally, if you’re interested, how about setting your profile image with attached image? The red carnation is symbolic present of expressing respect in Korea. (Is it the same in your country?) You can download ~~~~~~~~~
+Additionally, if you’re interested, how about setting your profile image with attached image? The red carnation is symbolic present of expressing respect in Korea. (Is it the same in your country?) You can download the file from above list.
 
  For BB collaborate, you can set your profile in course room. Click setting button at the bottom right of screen. Then you can find the profile setting. For zoom, you can check the setting button at the top right of chatting room. Then you can find the profile setting and you can change your profile image by clicking your original profile image.
  
@@ -21,7 +21,7 @@ I think most of you may be getting suffered with the online lectures even more t
 -----------For Korean students------------
 
 안녕하세요 CSE 재학중인 한 학생입니다!
-다음 주 금요일이 스승의 날이지 않습니까? 그래서 다음 주 수요일, 목요일, 금요일(5/13, 5/14, 5/15) 수업 시작할 때 다 같이 프로필 사진을 아래 이미지로 맞추고 빨간 하트 이모티콘과 함께 교수님께 감사 메시지를 입력하는 건 어떨까요! (혹시 수-금 수업이 있으면 금요일에만 진행하시면 될 것 같습니다.)
+다음 주 금요일이 스승의 날이지 않습니까? 그래서 다음 주 수요일, 목요일, 금요일(5/13, 5/14, 5/15) 수업 시작할 때 다 같이 프로필 사진을 첨부된 이미지(Profile image)로 맞추고 빨간 하트 이모티콘과 함께 교수님께 감사 메시지를 입력하는 건 어떨까요! (혹시 수-금 수업이 있으면 금요일에만 진행하시면 될 것 같습니다.)
 
 작성 예시) “항상 고맙습니다 ㅁㅁㅁ교수님! (하트) (하트) (하트) (하트) (하트) (하트) (하트) (하트)”
 
