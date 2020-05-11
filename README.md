@@ -10,16 +10,38 @@ Hello, I’m a Korean student of CSE.
  
 ## What to do
 
-**Just type ***“(A thank-you note what you want) <3<3<3<3<3<3<3<3”*** In the chat window.**
+**Don’t forget that this is just a voluntary campaign. Nobody will blame you even if you don’t take part in this campaign.**
 
-Additionally, if you’re interested, **how about setting your profile image with attached image?** The red carnation is symbolic present of expressing respect in Korea. (Is it the same in your country?) **You can download the file from above list.**
+**1. Change profile image with attached file(Profile image.png) on above list. 
+
+The red carnation is symbolic present of expressing respect in Korea. (Is it the same in your country?)
+
+**2. Just type *“(A thank-you note what you want) <3<3<3<3<3<3<3<3”* In the chat window.**
+
+Don't be shy! I have already proposed this to Korean students’ community, and most of them seems positive about this. Thus, you won’t be alone! :)
+
+**To make more students know this campaign, I need your help. Please share this page's URL with your friend!**
 
 ## How to change profile image
- For BB collaborate, you can set your profile in course room. Click setting button at the bottom right of screen. Then you can find the profile setting. For zoom, you can check the setting button at the top right of chatting room. Then you can find the profile setting and you can change your profile image by clicking your original profile image.
+**- BB collaborate**
+
+ 1) Enter to course room
  
-**To make more students know this campaign, I need your help. Please share this page's URL with your friend!**
+ 2) Click 'Open collaborate panel' at the bottom right of screen.
  
-I have already proposed this to Korean students’ community, and most of them seems positive about this. Thus, you won’t be alone! (However, don’t forget that this is just a voluntary campaign. Nobody will blame you even if you don’t take part in this campaign.)
+ 3) Click setting button.
+ 
+ 4) Click your profile image next to your name.
+ 
+**- Zoom**
+
+1) Click 'Settings' button at the top right in home page.
+
+2) Click 'Profile' on the left menu.
+
+3) Click rounded squre profile image 
+
+## Thank you and Cheer up!
 
 I think most of you may be getting suffered with the online lectures even more than the Korean students, because of the time difference. All I can say is cheer up.. I hope this campaign make your online lectures more enjoyable.
 
@@ -34,9 +56,14 @@ I think most of you may be getting suffered with the online lectures even more t
 ## 참여 방식
 **1. 프로필 사진을 첨부된 파일(Profile image)로 변경**
 
+**2. 수,목,금 수업 시작 때 채팅창에**
+
+***“항상 고맙습니다 ㅁㅁㅁ교수님! (하트) (하트) (하트) (하트) (하트) (하트) (하트) (하트)”***
+
+**입력**
+
 BB Collaborate와 zoom 모두 하트 이모티콘이 있더라고요. (Zoom은 emoji 다운 받으시면 object 카테고리에 있습니다) 그거 쓰시면 될 것 같습니다!
 
-**2. 수,목,금 수업 시작 때 채팅창에 *“항상 고맙습니다 ㅁㅁㅁ교수님! (하트) (하트) (하트) (하트) (하트) (하트) (하트) (하트)”* 입력**
 
 **많은 학우분들이 이 캠페인을 알 수 있게 이 페이지의 URL을 공유해주시면 정말 감사하겠습니다!**
 
