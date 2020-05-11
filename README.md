@@ -49,6 +49,8 @@ I think most of you may be getting suffered with the online lectures even more t
 
 **Thank you and stay strong!**
 
+
+
 # For Korean students
 
 안녕하세요 CSE 재학중인 한 학생입니다!
