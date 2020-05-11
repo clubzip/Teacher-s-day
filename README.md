@@ -10,9 +10,9 @@ Hello, I’m a Korean student of CSE.
  
 ## What to do
 
-**Don’t forget that this is just a voluntary campaign.**
+Don’t forget that this is just a voluntary campaign.
 
-**Nobody will blame you even if you don’t take part in this campaign.**
+Nobody will blame you even if you don’t take part in this campaign.
 
 **1. Change profile image with attached file(Profile image.png) on above list.**
 
@@ -57,7 +57,7 @@ I think most of you may be getting suffered with the online lectures even more t
 
 ## 참여 방식
 
-**자발적인 캠페인임을 잊지 말아주세요! 참여여부는 전적으로 자유입니다!**
+자발적인 캠페인 입니다! 참여여부는 전적으로 자유입니다!
 
 **1. 프로필 사진을 첨부된 파일(Profile image)로 변경**
 
