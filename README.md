@@ -10,13 +10,14 @@ Hello, I’m a Korean student of CSE.
  
 ## What to do
 
-**Don’t forget that this is just a voluntary campaign. Nobody will blame you even if you don’t take part in this campaign.**
+**Don’t forget that this is just a voluntary campaign.**
+**Nobody will blame you even if you don’t take part in this campaign.**
 
 **1. Change profile image with attached file(Profile image.png) on above list. 
 
 The red carnation is symbolic present of expressing respect in Korea. (Is it the same in your country?)
 
-**2. Just type *“(A thank-you note what you want) <3<3<3<3<3<3<3<3”* In the chat window.**
+**2. Type *“(A thank-you note what you want) <3<3<3<3<3<3<3<3”* in the chat window at the beginning of classes on Wed, Thur, Friday.
 
 Don't be shy! I have already proposed this to Korean students’ community, and most of them seems positive about this. Thus, you won’t be alone! :)
 
@@ -54,26 +55,29 @@ I think most of you may be getting suffered with the online lectures even more t
 다음 주 금요일이 스승의 날이지 않습니까? 그래서 **이번 주 수요일, 목요일, 금요일(5/13, 5/14, 5/15) 수업 시작할 때 교수님께 감사함을 표현해보는 건 어떨까요! (혹시 수-금 수업이 있으면 금요일에만 진행하시면 될 것 같습니다.)**
 
 ## 참여 방식
+
+**자발적인 캠페인임을 잊지 말아주세요! 참여여부는 전적으로 자유입니다!**
+
 **1. 프로필 사진을 첨부된 파일(Profile image)로 변경**
 
-**2. 수,목,금 수업 시작 때 채팅창에**
+상단 파일 목록에서 다운로드 받으실 수 있습니다.
+
+**2. 수,목,금 수업 시작 때 채팅창에 아래 메세지 입력**
 
 ***“항상 고맙습니다 ㅁㅁㅁ교수님! (하트) (하트) (하트) (하트) (하트) (하트) (하트) (하트)”***
 
-**입력**
-
-BB Collaborate와 zoom 모두 하트 이모티콘이 있더라고요. (Zoom은 emoji 다운 받으시면 object 카테고리에 있습니다) 그거 쓰시면 될 것 같습니다!
+앞 부분의 감사 인사는 원하시는 대로 하시면 됩니다! BB Collaborate와 zoom 모두 하트 이모티콘이 있더라고요. (Zoom은 emoji 다운 받으시면 object 카테고리에 있습니다) 그거 쓰시면 될 것 같습니다!
 
 
 **많은 학우분들이 이 캠페인을 알 수 있게 이 페이지의 URL을 공유해주시면 정말 감사하겠습니다!**
 
 ## 프로필 변경 방법
 
-- BB Collaborate
+**- BB Collaborate**
 
 1) 코스룸 입장 2) 우측 하단 톱니바퀴(설정) 아이콘 클릭 3) 프로필 변경
 
-- Zoom
+**- Zoom**
 
 1) 우측 상단 톱니바퀴(설정) 클릭 2) Profile 클릭 3) 상단 둥근 사각형 프로필 이미지 클릭
 
