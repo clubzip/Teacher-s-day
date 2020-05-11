@@ -27,7 +27,7 @@ Don't be shy! I have already proposed this to Korean students’ community, and 
 ## How to change profile image
 **- BB collaborate**
 
- 1) Enter to course room
+ 1) Enter the course room
  
  2) Click 'Open collaborate panel' at the bottom right of screen.
  
