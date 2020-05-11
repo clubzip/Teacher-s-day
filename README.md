@@ -1,6 +1,7 @@
 # Teacher-s-day Thank-you campaign
 
 -----------For international students------------
+
 Hello, I’m a Korean student of CSE.
 
  You may know that there’s the Teacher’s day in Korea. It’s May 15, this Friday, so I mean how about expressing gratitude to professors by chatting on BB collaborate or zoom? As you know most of the classes are not on Friday, so I think it will be okay to do that at the beginning of classes on Wednesday and Thursday. (For the classes on Friday, it will be better to do this on Friday.)
@@ -18,6 +19,7 @@ I have already proposed this to Korean students’ community, and most of them s
 I think most of you may be getting suffered with the online lectures even more than the Korean students, because of the time difference. All I can say is cheer up.. I hope this campaign make your online lectures more enjoyable. Thank you and stay strong!
 
 -----------For Korean students------------
+
 안녕하세요 CSE 재학중인 한 학생입니다!
 다음 주 금요일이 스승의 날이지 않습니까? 그래서 다음 주 수요일, 목요일, 금요일(5/13, 5/14, 5/15) 수업 시작할 때 다 같이 프로필 사진을 아래 이미지로 맞추고 빨간 하트 이모티콘과 함께 교수님께 감사 메시지를 입력하는 건 어떨까요! (혹시 수-금 수업이 있으면 금요일에만 진행하시면 될 것 같습니다.)
 
