@@ -1,9 +1,10 @@
 # Teacher's day Thank-you campaign
 
-**국문은 아래에 있습니다!**
+This description is optimized for PC screen.
 
 ![Profile image](https://user-images.githubusercontent.com/52950649/81531373-8b091c00-939d-11ea-95a1-890189e92dea.PNG)
 
+**국문은 아래에 있습니다!**
 # For international students
 
 Hello, I’m a Korean student of CSE.
