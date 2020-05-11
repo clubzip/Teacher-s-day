@@ -1,8 +1,8 @@
 # Teacher-s-day Thank-you campaign
 
-## 국문은 아래에 있습니다!
+**국문은 아래에 있습니다!**
 
-# -----------For international students------------
+# For international students
 
 Hello, I’m a Korean student of CSE.
 
@@ -11,7 +11,7 @@ Hello, I’m a Korean student of CSE.
 It’s very easy!
 Just type
 
-## “Thank you professor!(A thank-you note what you want) <3<3<3<3<3<3<3<3”**
+## “(A thank-you note what you want) <3<3<3<3<3<3<3<3”**
 
 In the chat window.
 
@@ -24,7 +24,7 @@ Additionally, if you’re interested, **how about setting your profile image wit
 I have already proposed this to Korean students’ community, and most of them seems positive about this. Thus, you won’t be alone! (However, don’t forget that this is just a voluntary campaign. Nobody will blame you even if you don’t take part in this campaign.)
 I think most of you may be getting suffered with the online lectures even more than the Korean students, because of the time difference. All I can say is cheer up.. I hope this campaign make your online lectures more enjoyable. **Thank you and stay strong!**
 
-# -----------For Korean students------------
+# For Korean students
 
 안녕하세요 CSE 재학중인 한 학생입니다!
 
