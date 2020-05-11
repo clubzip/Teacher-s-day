@@ -11,6 +11,7 @@ Hello, I’m a Korean student of CSE.
 ### What to do
 
 **Don’t forget that this is just a voluntary campaign.**
+
 **Nobody will blame you even if you don’t take part in this campaign.**
 
 **1. Change profile image with attached file(Profile image.png) on above list.**
