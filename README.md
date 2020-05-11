@@ -13,11 +13,11 @@ Hello, I’m a Korean student of CSE.
 **Don’t forget that this is just a voluntary campaign.**
 **Nobody will blame you even if you don’t take part in this campaign.**
 
-**1. Change profile image with attached file(Profile image.png) on above list. 
+**1. Change profile image with attached file(Profile image.png) on above list.**
 
 The red carnation is symbolic present of expressing respect in Korea. (Is it the same in your country?)
 
-**2. Type *“(A thank-you note what you want) <3<3<3<3<3<3<3<3”* in the chat window at the beginning of classes on Wed, Thur, Friday.
+**2. Type *“(A thank-you note what you want) <3<3<3<3<3<3<3<3”* in the chat window at the beginning of classes on Wed, Thur, Friday.**
 
 Don't be shy! I have already proposed this to Korean students’ community, and most of them seems positive about this. Thus, you won’t be alone! :)
 
