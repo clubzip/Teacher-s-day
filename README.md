@@ -1,5 +1,7 @@
 # Teacher-s-day Thank-you campaign
 
+국문은 아래에 있습니다!
+
 -----------For international students------------
 
 Hello, I’m a Korean student of CSE.
@@ -28,6 +30,8 @@ I think most of you may be getting suffered with the online lectures even more t
 
 BB Collaborate와 zoom 모두 하트 이모티콘이 있더라고요. (Zoom은 emoji 다운 받으시면 object 카테고리에 있습니다) 그거 쓰시면 될 것 같습니다!
 프로필 설정은 Collaborate는 코스룸 입장하셔서 우측하단 설정에서 바꾸시면 되고 zoom은 채팅창 우측 상단 프로필 누르시면 setting-profile에서 프로필 이미지 누르시면 바꾸실 수 있습니다!
+
+많은 학우분들이 이 캠페인을 알 수 있게 이 페이지의 URL을 공유해주시면 정말 감사하겠습니다!
 
 음.. TMI 같지만 계기를 말씀드리자면 매년 교수님께 감사함을 표현하고 싶다는 생각은 있었는데 직접 말씀드리기 어려워서 못했었습니다.. 마침 이번 학기는 온라인 강의이기도 하니 텍스트로 전하는 건 할 수 있을 것 같았는데 막상 혼자 하려하니 부끄러움이 앞서서 다 같이 작은 이벤트 벌여보는 건 어떨까 싶었습니다. 컴공과 오픈채팅방에 먼저 제안을 했었는데 다들 괜찮게 생각해 주시고 한 학우분께서 프로필 사진을 카네이션으로 맞추는 건 어떠냐고 제안해 주셔서 아래 이미지도 만들어봤습니다! (꽃은 제가 직접 그린 게 아니라 픽사베이에서 다운 받았습니다ㅋㅋ) 저작권 문제 없는 이미지라 자유롭게 사용하셔도 될 것 같습니다!
 
