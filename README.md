@@ -1,4 +1,4 @@
-# Teacher-s-day Thank-you campaign
+# Teacher's day Thank-you campaign
 
 **국문은 아래에 있습니다!**
 
