@@ -6,7 +6,7 @@
 
 Hello, I’m a Korean student of CSE.
 
- You may know that there’s the Teacher’s day in Korea. It’s May 15, this Friday, so I mean **how about expressing gratitude to professors by chatting on BB collaborate or zoom?** As you know most of the classes are not on Friday, so I think it will be okay to do that **at the beginning of classes on Wednesday(5/13) and Thursday(5/14). (For the classes on Friday, it will be better to do this on Friday.)**
+ You may know that there’s the Teacher’s day in Korea. It’s May 15, this Friday, so I mean **how about expressing gratitude to professors by chatting on BB collaborate or zoom?** As you know most of the classes are not on Friday, so I think it will be okay to do that **at the beginning of classes on Wednesday(5/13) and Thursday(5/14). (For the classes on Friday, it will be better to do this on Friday only.)**
  
 ### What to do
 
