@@ -38,6 +38,8 @@ Don't be shy! I have already proposed this to Korean students’ community, and 
  
  4) Click your profile image next to your name.
  
+ 5) Check 'Always use this profile picture'
+ 
 **- Zoom**
 
 1) Click 'Settings' button at the top right in home page.
@@ -81,7 +83,7 @@ I think most of you may be getting suffered with the online lectures even more t
 
 **- BB Collaborate**
 
-1. 코스룸 입장 2. 우측 하단 보라색 화살표 클릭 3. 톱니바퀴(설정) 아이콘 클릭 4. 프로필 이미지 클릭
+1. 코스룸 입장 2. 우측 하단 보라색 화살표 클릭 3. 톱니바퀴(설정) 아이콘 클릭 4. 프로필 이미지 클릭 5. 업로드 후 'Always use this profile picture' 체크
 
 **- Zoom**
 
