@@ -85,7 +85,7 @@ I think most of you may be getting suffered with the online lectures even more t
 
 1. 코스룸 입장 2. 우측 하단 보라색 화살표 클릭 3. 톱니바퀴(설정) 아이콘 클릭 4. 프로필 이미지 클릭
 
-5. 업로드 후 'Always use this profile picture' 체크
+'Always use this profile picture' 체크하시면 다른 course 들에도 적용됩니다.
 
 **- Zoom**
 
